@@ -1,0 +1,1 @@
+this package is for writing errors ,exceptions,debug and information to a text file 
